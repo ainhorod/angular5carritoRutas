@@ -1,0 +1,16 @@
+{
+"rutas" : [
+{"_id" : "1", "titulo" : "Ruta del Sushi", "fecha" : "15/03/2018", "descripcion" : "Entra y reserva una deliciosa ruta por los mejores restaurantes de sushi en Japón.", "precio" : "59.99", "foto" : "/assets/imagenes/madrid.jpg", "categoria" : "Gastronomia"},
+{"_id" : "2", "titulo" : "Bon Odori", "fecha" : "19/03/2018", "descripcion" : "Descubre esta bonita festividad japonesa, con los mejores guías y la mejor comida.", "precio" : "79.99", "foto" : "/assets/imagenes/arenal.jpg", "categoria" : "Festividades"},
+{"_id" : "3", "titulo" : "Okinawa", "fecha" : "23/03/2018", "descripcion" : "Disfruta de la playa la arena y el sol de esta fantástica isla japonesa.", "precio" : "599.99", "foto" : "/assets/imagenes/punta.jpg", "categoria" : "Naturaleza"},
+{"_id" : "4", "titulo" : "Tomorrowland", "fecha" : "26/03/2018", "descripcion" : "Drogas a tutiplen y m�sica dabuten", "precio" : "59.99", "foto" : "/assets/imagenes/tomorrow.jpg", "categoria" : "Festividades"},
+{"_id" : "5", "titulo" : "Barcelona", "fecha" : "29/03/2018", "descripcion" : "Ven a la ciudad catalana con mas encanto de este pais", "precio" : "39.99", "foto" : "/assets/imagenes/barcelona.jpg", "categoria" : "Gastronomia"},
+{"_id" : "6", "titulo" : "Las Maldivas", "fecha" : "01/04/2018", "descripcion" : "Aprovecha el sol para tostarte cual rebanada de pan", "precio" : "699.99", "foto" : "/assets/imagenes/malvinas.jpg", "categoria" : "Naturaleza"},
+{"_id" : "7", "titulo" : "Bora Bora", "fecha" : "04/04/2018", "descripcion" : "Solesito rico y maracuya con platanito frito", "precio" : "799.99", "foto" : "/assets/imagenes/bora.jpg", "categoria" : "Naturaleza"},
+{"_id" : "8", "titulo" : "Metalkoholic Fest", "fecha" : "07/04/2018", "descripcion" : "Metal + Alcohol buena combinacion si se�or", "precio" : "89.99", "foto" : "/assets/imagenes/fest.jpg", "categoria" : "Festividades"},
+{"_id" : "9", "titulo" : "Sevilla", "fecha" : "10/04/2018", "descripcion" : "Ven a esta ciudad con duende a bailar vestido de flamenco", "precio" : "69.99", "foto" : "/assets/imagenes/sevilla.jpg", "categoria" : "Gastronomia"}
+],
+"contactos" : [
+{"_id" : "1", "mail" : "adrian@gmail.com", "fecha" : "02/01/2018", "comentario" : "Hola tio me llamo ralph"}
+]
+}
